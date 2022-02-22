@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:syncfusion="clr-namespace:Syncfusion.ListView.XForms;assembly=Syncfusion.SfListView.XForms"
+             xmlns:local="clr-namespace:SfListView;assembly=SfListView"
+             x:Class="SfListView.MainPage">
+    <ContentPage.BindingContext>
+        <local:BookInfoRepository />
+    </ContentPage.BindingContext>
+    <StackLayout>
+        <Grid>
+        <syncfusion:SfListView x:Name="listView" 
+                   ItemsSource="{Binding BookInfo}"
+                   ItemSize="60">
+        <syncfusion:SfListView.ItemTemplate>
+            <DataTemplate>
+                <StackLayout>
+                    <Grid Padding="10" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Grid.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="OnTapGestureRecognizerTapped" NumberOfTapsRequired="2"/>
+                            <TapGestureRecognizer Tapped="OnTapGestureRecognizerTappedOnce" NumberOfTapsRequired="1"/>
+                                </Grid.GestureRecognizers>
+                                <Grid Padding="10" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="*"/>
+                                    </Grid.RowDefinitions>
+                                    <Label Text="{Binding BookName}" TextColor="Teal" FontSize="15"/>
+                                </Grid>
+                            </Grid>
+                </StackLayout>
+            </DataTemplate>
+        </syncfusion:SfListView.ItemTemplate>
+    </syncfusion:SfListView>
+        </Grid>
+        </StackLayout>
+</ContentPage>

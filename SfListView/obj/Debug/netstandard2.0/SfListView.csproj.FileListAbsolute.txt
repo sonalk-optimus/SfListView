@@ -1,0 +1,17 @@
+C:\Users\Sonal\source\repos\SfListView\SfListView\bin\Debug\netstandard2.0\SfListView.deps.json
+C:\Users\Sonal\source\repos\SfListView\SfListView\bin\Debug\netstandard2.0\SfListView.dll
+C:\Users\Sonal\source\repos\SfListView\SfListView\bin\Debug\netstandard2.0\ref\SfListView.dll
+C:\Users\Sonal\source\repos\SfListView\SfListView\bin\Debug\netstandard2.0\SfListView.pdb
+C:\Users\Sonal\source\repos\SfListView\SfListView\obj\Debug\netstandard2.0\SfListView.csproj.AssemblyReference.cache
+C:\Users\Sonal\source\repos\SfListView\SfListView\obj\Debug\netstandard2.0\SfListView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sonal\source\repos\SfListView\SfListView\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Sonal\source\repos\SfListView\SfListView\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Sonal\source\repos\SfListView\SfListView\obj\Debug\netstandard2.0\SfListView.AssemblyInfoInputs.cache
+C:\Users\Sonal\source\repos\SfListView\SfListView\obj\Debug\netstandard2.0\SfListView.AssemblyInfo.cs
+C:\Users\Sonal\source\repos\SfListView\SfListView\obj\Debug\netstandard2.0\SfListView.csproj.CoreCompileInputs.cache
+C:\Users\Sonal\source\repos\SfListView\SfListView\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Sonal\source\repos\SfListView\SfListView\obj\Debug\netstandard2.0\SfListView.dll
+C:\Users\Sonal\source\repos\SfListView\SfListView\obj\Debug\netstandard2.0\ref\SfListView.dll
+C:\Users\Sonal\source\repos\SfListView\SfListView\obj\Debug\netstandard2.0\SfListView.pdb
+C:\Users\Sonal\source\repos\SfListView\SfListView\obj\Debug\netstandard2.0\WelcomePage.xaml.g.cs
+C:\Users\Sonal\source\repos\SfListView\SfListView\obj\Debug\netstandard2.0\Page1.xaml.g.cs
