@@ -1029,21 +1029,6 @@
         "build": {
           "buildTransitive/monoandroid50/Xamarin.Google.Guava.ListenableFuture.targets": {}
         }
-      },
-      "SfListView/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Syncfusion.Xamarin.SfListView": "19.4.0.40",
-          "Xamarin.Essentials": "1.6.1",
-          "Xamarin.Forms": "5.0.0.2291"
-        },
-        "compile": {
-          "bin/placeholder/SfListView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SfListView.dll": {}
-        }
       }
     }
   },
@@ -2344,16 +2329,10 @@
         "xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512",
         "xamarin.google.guava.listenablefuture.nuspec"
       ]
-    },
-    "SfListView/1.0.0": {
-      "type": "project",
-      "path": "../SfListView/SfListView.csproj",
-      "msbuildProject": "../SfListView/SfListView.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v11.0": [
-      "SfListView >= 1.0.0",
       "Syncfusion.Xamarin.SfListView >= 19.4.0.40",
       "Xamarin.Essentials >= 1.6.1",
       "Xamarin.Forms >= 5.0.0.2012"
@@ -2367,11 +2346,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sonal\\source\\repos\\SfListView\\SfListView.Android\\SfListView.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Sonal\\Downloads\\SfListView\\SfListView.Android\\SfListView.Android.csproj",
       "projectName": "SfListView.Android",
-      "projectPath": "C:\\Users\\Sonal\\source\\repos\\SfListView\\SfListView.Android\\SfListView.Android.csproj",
+      "projectPath": "C:\\Users\\Sonal\\Downloads\\SfListView\\SfListView.Android\\SfListView.Android.csproj",
       "packagesPath": "C:\\Users\\Sonal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sonal\\source\\repos\\SfListView\\SfListView.Android\\obj\\",
+      "outputPath": "C:\\Users\\Sonal\\Downloads\\SfListView\\SfListView.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2393,11 +2372,7 @@
       },
       "frameworks": {
         "monoandroid11.0": {
-          "projectReferences": {
-            "C:\\Users\\Sonal\\source\\repos\\SfListView\\SfListView\\SfListView.csproj": {
-              "projectPath": "C:\\Users\\Sonal\\source\\repos\\SfListView\\SfListView\\SfListView.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       }
     },
@@ -2419,17 +2394,5 @@
         }
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2291 to 5.0.0.2012. Reference the package directly from the project to select a different version. \r\n SfListView.Android -> SfListView -> Xamarin.Forms (>= 5.0.0.2291) \r\n SfListView.Android -> Xamarin.Forms (>= 5.0.0.2012)",
-      "libraryId": "Xamarin.Forms",
-      "targetGraphs": [
-        "MonoAndroid,Version=v11.0"
-      ]
-    }
-  ]
+  }
 }

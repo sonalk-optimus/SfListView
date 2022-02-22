@@ -432,21 +432,6 @@
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
         }
-      },
-      "SfListView/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Syncfusion.Xamarin.SfListView": "19.4.0.40",
-          "Xamarin.Essentials": "1.6.1",
-          "Xamarin.Forms": "5.0.0.2291"
-        },
-        "compile": {
-          "bin/placeholder/SfListView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SfListView.dll": {}
-        }
       }
     },
     "UAP,Version=v10.0.16299/win10-arm": {
@@ -1047,21 +1032,6 @@
         "build": {
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
-        }
-      },
-      "SfListView/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Syncfusion.Xamarin.SfListView": "19.4.0.40",
-          "Xamarin.Essentials": "1.6.1",
-          "Xamarin.Forms": "5.0.0.2291"
-        },
-        "compile": {
-          "bin/placeholder/SfListView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SfListView.dll": {}
         }
       }
     },
@@ -1665,21 +1635,6 @@
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
         }
-      },
-      "SfListView/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Syncfusion.Xamarin.SfListView": "19.4.0.40",
-          "Xamarin.Essentials": "1.6.1",
-          "Xamarin.Forms": "5.0.0.2291"
-        },
-        "compile": {
-          "bin/placeholder/SfListView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SfListView.dll": {}
-        }
       }
     },
     "UAP,Version=v10.0.16299/win10-arm64-aot": {
@@ -2278,21 +2233,6 @@
         "build": {
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
-        }
-      },
-      "SfListView/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Syncfusion.Xamarin.SfListView": "19.4.0.40",
-          "Xamarin.Essentials": "1.6.1",
-          "Xamarin.Forms": "5.0.0.2291"
-        },
-        "compile": {
-          "bin/placeholder/SfListView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SfListView.dll": {}
         }
       }
     },
@@ -2894,21 +2834,6 @@
         "build": {
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
-        }
-      },
-      "SfListView/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Syncfusion.Xamarin.SfListView": "19.4.0.40",
-          "Xamarin.Essentials": "1.6.1",
-          "Xamarin.Forms": "5.0.0.2291"
-        },
-        "compile": {
-          "bin/placeholder/SfListView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SfListView.dll": {}
         }
       }
     },
@@ -3512,21 +3437,6 @@
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
         }
-      },
-      "SfListView/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Syncfusion.Xamarin.SfListView": "19.4.0.40",
-          "Xamarin.Essentials": "1.6.1",
-          "Xamarin.Forms": "5.0.0.2291"
-        },
-        "compile": {
-          "bin/placeholder/SfListView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SfListView.dll": {}
-        }
       }
     },
     "UAP,Version=v10.0.16299/win10-x86": {
@@ -4127,21 +4037,6 @@
         "build": {
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
-        }
-      },
-      "SfListView/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Syncfusion.Xamarin.SfListView": "19.4.0.40",
-          "Xamarin.Essentials": "1.6.1",
-          "Xamarin.Forms": "5.0.0.2291"
-        },
-        "compile": {
-          "bin/placeholder/SfListView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SfListView.dll": {}
         }
       }
     },
@@ -4744,21 +4639,6 @@
         "build": {
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
-        }
-      },
-      "SfListView/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Syncfusion.Xamarin.SfListView": "19.4.0.40",
-          "Xamarin.Essentials": "1.6.1",
-          "Xamarin.Forms": "5.0.0.2291"
-        },
-        "compile": {
-          "bin/placeholder/SfListView.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SfListView.dll": {}
         }
       }
     }
@@ -9674,17 +9554,11 @@
         "xamarin.forms.5.0.0.2012.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
-    },
-    "SfListView/1.0.0": {
-      "type": "project",
-      "path": "../SfListView/SfListView.csproj",
-      "msbuildProject": "../SfListView/SfListView.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "UAP,Version=v10.0.16299": [
       "Microsoft.NETCore.UniversalWindowsPlatform >= 6.2.12",
-      "SfListView >= 1.0.0",
       "Syncfusion.Xamarin.SfListView >= 19.4.0.40",
       "Xamarin.Essentials >= 1.6.1",
       "Xamarin.Forms >= 5.0.0.2012"
@@ -9699,11 +9573,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sonal\\source\\repos\\SfListView\\SfListView.UWP\\SfListView.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\Sonal\\Downloads\\SfListView\\SfListView.UWP\\SfListView.UWP.csproj",
       "projectName": "SfListView.UWP",
-      "projectPath": "C:\\Users\\Sonal\\source\\repos\\SfListView\\SfListView.UWP\\SfListView.UWP.csproj",
+      "projectPath": "C:\\Users\\Sonal\\Downloads\\SfListView\\SfListView.UWP\\SfListView.UWP.csproj",
       "packagesPath": "C:\\Users\\Sonal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sonal\\source\\repos\\SfListView\\SfListView.UWP\\obj\\",
+      "outputPath": "C:\\Users\\Sonal\\Downloads\\SfListView\\SfListView.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -9726,11 +9600,7 @@
       },
       "frameworks": {
         "uap10.0.16299": {
-          "projectReferences": {
-            "C:\\Users\\Sonal\\source\\repos\\SfListView\\SfListView\\SfListView.csproj": {
-              "projectPath": "C:\\Users\\Sonal\\source\\repos\\SfListView\\SfListView\\SfListView.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       }
     },
@@ -9784,24 +9654,5 @@
         "#import": []
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2291 to 5.0.0.2012. Reference the package directly from the project to select a different version. \r\n SfListView.UWP -> SfListView -> Xamarin.Forms (>= 5.0.0.2291) \r\n SfListView.UWP -> Xamarin.Forms (>= 5.0.0.2012)",
-      "libraryId": "Xamarin.Forms",
-      "targetGraphs": [
-        "UAP,Version=v10.0.16299",
-        "UAP,Version=v10.0.16299/win10-arm",
-        "UAP,Version=v10.0.16299/win10-arm-aot",
-        "UAP,Version=v10.0.16299/win10-arm64-aot",
-        "UAP,Version=v10.0.16299/win10-x64",
-        "UAP,Version=v10.0.16299/win10-x64-aot",
-        "UAP,Version=v10.0.16299/win10-x86",
-        "UAP,Version=v10.0.16299/win10-x86-aot"
-      ]
-    }
-  ]
+  }
 }
