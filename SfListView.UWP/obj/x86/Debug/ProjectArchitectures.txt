@@ -1,0 +1,1 @@
+C:\Users\Sonal\source\repos\SfListView\SfListView.UWP\SfListView.UWP.csproj;x86
